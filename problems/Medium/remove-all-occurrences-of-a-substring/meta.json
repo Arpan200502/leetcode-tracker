@@ -1,0 +1,11 @@
+{
+  "title": "Remove All Occurrences of a Substring",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Stack",
+    "Simulation"
+  ],
+  "url": "https://leetcode.com/problems/remove-all-occurrences-of-a-substring/",
+  "date": "2026-01-29"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Trapping Rain Water",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Dynamic Programming",
+    "Stack",
+    "Monotonic Stack"
+  ],
+  "url": "https://leetcode.com/problems/trapping-rain-water/",
+  "date": "2026-02-02"
+}

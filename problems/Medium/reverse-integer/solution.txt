@@ -1,0 +1,20 @@
+1class Solution {
+2public:
+3        int reverse(int x) {
+4        int rev = 0;
+5
+6        while (x != 0) {
+7            int lastDigit = x % 10;
+8            x /= 10;
+9
+10            
+11            if((rev>INT_MAX/10)||(rev<INT_MIN/10)){
+12                return 0;
+13            }
+14
+15            rev = (rev * 10) + lastDigit;
+16        }
+17
+18        return rev;
+19    }
+20};

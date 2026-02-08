@@ -1,0 +1,11 @@
+{
+  "title": "Longest Common Prefix",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "String",
+    "Trie"
+  ],
+  "url": "https://leetcode.com/problems/longest-common-prefix/",
+  "date": "2026-01-29"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Maximum Subarray",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Divide and Conquer",
+    "Dynamic Programming"
+  ],
+  "url": "https://leetcode.com/problems/maximum-subarray/",
+  "date": "2026-01-31"
+}

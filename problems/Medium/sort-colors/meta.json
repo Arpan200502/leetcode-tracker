@@ -1,0 +1,11 @@
+{
+  "title": "Sort Colors",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "url": "https://leetcode.com/problems/sort-colors/",
+  "date": "2026-02-02"
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Single Element in a Sorted Array",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "url": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+  "date": "2026-01-29"
+}

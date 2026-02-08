@@ -1,0 +1,16 @@
+1import java.util.Arrays;
+2class Solution {
+3    public boolean isAnagram(String s, String t) {
+4        char[]arr1=s.toCharArray();
+5        char[]arr2=t.toCharArray();
+6        Arrays.sort(arr1);
+7        Arrays.sort(arr2);
+8        String sarr1=new String(arr1);
+9        String sarr2=new String(arr2);
+10
+11        if(sarr1.equals(sarr2)){
+12            return true;
+13        }else{
+14            return false;
+15        }
+16}}

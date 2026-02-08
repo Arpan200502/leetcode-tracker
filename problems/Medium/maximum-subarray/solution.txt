@@ -1,0 +1,13 @@
+1class Solution {
+2    public int maxSubArray(int[] nums) {
+3         int maxsub=Integer.MIN_VALUE;
+4        int cr=0;
+5        for(int i =0;i<nums.length;i++){
+6            
+7            cr = Math.max(nums[i], cr + nums[i]);
+8            maxsub=Math.max(cr,maxsub);
+9                    
+10        }     
+11        return maxsub; 
+12    }
+13}

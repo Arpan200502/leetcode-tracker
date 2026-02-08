@@ -1,0 +1,13 @@
+{
+  "title": "Majority Element",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Sorting",
+    "Counting"
+  ],
+  "url": "https://leetcode.com/problems/majority-element/",
+  "date": "2026-02-02"
+}

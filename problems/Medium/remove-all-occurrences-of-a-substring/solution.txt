@@ -1,0 +1,10 @@
+1class Solution {
+2    public String removeOccurrences(String s, String part) {
+3        while(s.contains(part)){
+4            
+5        s=s.replaceFirst(part,"");
+6            
+7            
+8        }return s;
+9    }
+10}

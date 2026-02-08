@@ -1,0 +1,22 @@
+1class Solution {
+2    public int singleNonDuplicate(int[] nums) {
+3        int start=0;
+4        int len=nums.length;
+5        int end=len-1;
+6
+7        while(start<end){
+8            int mid=(start+end)/2;
+9           
+10
+11            if(mid % 2 !=0){
+12                mid=mid-1;
+13            }
+14            if(nums[mid]==nums[mid+1]){
+15                 start=mid+2;
+16            }else{
+17                end=mid;
+18            }
+19             
+20        }return nums[start];
+21    }
+22}

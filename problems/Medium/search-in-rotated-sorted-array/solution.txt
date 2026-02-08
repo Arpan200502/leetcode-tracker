@@ -1,0 +1,39 @@
+1class Solution {
+2    public int search(int[] nums, int target) {
+3     
+4       int start=0;
+5        int end=nums.length-1;
+6
+7        while(start<=end){
+8           int mid=(start+end)/2;
+9           if(nums[mid]==target){
+10            return mid;
+11           }
+12
+13           if(nums[start]<=nums[mid]){
+14                if(nums[mid]>target && nums[start]<=target){
+15                    end=mid-1;
+16                }else{
+17                    start=mid+1;
+18                }
+19           }else{
+20                if(nums[mid]<target && target <= nums[end]){
+21                    start=mid+1;
+22                }else{
+23                    end=mid-1;
+24                }
+25           }
+26
+27
+28
+29
+30
+31
+32
+33
+34    
+35        }
+36        return -1;
+37    
+38    }
+39}
