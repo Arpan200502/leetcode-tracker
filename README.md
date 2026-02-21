@@ -1,9 +1,9 @@
-# LeetCode Solutions 
+# LeetCode Solutions
 
-Automatically tracked via browser extension-(created by Arpan Mukherjee).
+Automatically tracked via browser extension.
 
 ## 📊 Stats
 - Easy: 14
-- Medium: 10
+- Medium: 11
 - Hard: 1
-- Total: 25
+- Total: 26
