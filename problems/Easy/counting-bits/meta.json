@@ -1,0 +1,10 @@
+{
+  "title": "Counting Bits",
+  "difficulty": "Easy",
+  "topics": [
+    "Dynamic Programming",
+    "Bit Manipulation"
+  ],
+  "url": "https://leetcode.com/problems/counting-bits/",
+  "date": "2026-02-22"
+}
