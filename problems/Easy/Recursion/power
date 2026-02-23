@@ -1,0 +1,21 @@
+import java.util.*;
+class Main {
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        
+        System.out.println("enter main num");
+        int num=sc.nextInt();
+        
+        System.out.println("enter main pow");
+        int pow=sc.nextInt();
+        System.out.println(power(num, pow));
+   
+    }
+     public static int power(int num1, int pow1){
+         if(pow1==0){
+             return 1;
+         }
+        return num1*power(num1,pow1-1);
+        
+    }
+}
