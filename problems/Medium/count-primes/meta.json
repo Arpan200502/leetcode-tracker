@@ -1,0 +1,12 @@
+{
+  "title": "Count Primes",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Enumeration",
+    "Number Theory"
+  ],
+  "url": "https://leetcode.com/problems/count-primes/",
+  "date": "2026-02-23"
+}
