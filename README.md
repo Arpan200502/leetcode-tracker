@@ -7,3 +7,4 @@ Automatically tracked via browser extension.
 - Medium: 13
 - Hard: 1
 - Total: 32
+ 
