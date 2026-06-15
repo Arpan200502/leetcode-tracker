@@ -1,0 +1,11 @@
+{
+  "title": "Rotate Array",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Two Pointers"
+  ],
+  "url": "https://leetcode.com/problems/rotate-array/",
+  "date": "2026-06-15"
+}
