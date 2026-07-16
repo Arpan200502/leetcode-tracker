@@ -1,0 +1,11 @@
+{
+  "title": "Maximum Sum of an Hourglass",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Matrix",
+    "Prefix Sum"
+  ],
+  "url": "https://leetcode.com/problems/maximum-sum-of-an-hourglass/",
+  "date": "2026-07-16"
+}
