@@ -1,0 +1,12 @@
+{
+  "title": "Basic Calculator",
+  "difficulty": "Hard",
+  "topics": [
+    "Math",
+    "String",
+    "Stack",
+    "Recursion"
+  ],
+  "url": "https://leetcode.com/problems/basic-calculator/",
+  "date": "2026-09-11"
+}
