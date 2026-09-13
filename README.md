@@ -4,6 +4,6 @@ Automatically tracked via browser extension.
 
 ## 📊 Stats
 - Easy: 18
-- Medium: 16
+- Medium: 17
 - Hard: 2
-- Total: 36
+- Total: 37
